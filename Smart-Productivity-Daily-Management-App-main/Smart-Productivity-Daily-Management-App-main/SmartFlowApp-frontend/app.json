@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SmartFlowApp",
+    "slug": "SmartFlowApp",
+    "scheme": "smartflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": { "enabled": false },
+    "web": { "bundler": "metro" }
+  }
+}
